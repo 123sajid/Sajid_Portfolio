@@ -25,6 +25,7 @@ npm run dev
 
 Open the local URL shown in the terminal (usually `http://localhost:5173`).
 
+<<<<<<< Updated upstream
 
 ## 3. Build for production
 ```bash
@@ -33,3 +34,5 @@ npm run preview
 ```
 Vite writes the deployable website to `dist/`.
 
+=======
+>>>>>>> Stashed changes
